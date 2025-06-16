@@ -1,0 +1,6 @@
+name,email,ssn,phone,address,transaction_amount,product,date,product_category,payment_method,store_location,customer_feedback,delivery_time_days,product_rating,quantity,brand
+David Williams,jamie13@example.org,007-06-8006,290-768-1468x579,"966 Tyler Brook Suite 171, Mauriceville, MT 36702",9580.84,yes,1999-09-19,Grocery,UPI,"Port Sherri, Pennsylvania",Fast shipping,4,4.6,1,Sony
+Sean Dennis,llopez@example.net,303-84-3692,666.893.6329,"636 Shaun Forge, North Matthew, IA 50438",2159.93,manage,2001-07-04,Toys,Cash,"Patrickberg, Indiana",Great service!,6,2.3,3,Adidas
+Patricia Davis,smithsteven@example.org,661-15-7281,(317)755-1893,"0240 Moore Coves, Lake Christopher, IN 91880",5454.77,apply,1975-10-09,Clothing,Net Banking,"Lake Jamesfort, Wyoming",Not satisfied,6,1.9,3,Samsung
+Elizabeth Roberts,tdaniels@example.org,711-15-1119,357.538.1977x85907,"USNV Bryant, FPO AE 76463",6727.86,green,1973-12-26,Grocery,Net Banking,"New Andrea, North Carolina",Not satisfied,2,2.8,3,Adidas
+Joseph Miller,theresatodd@example.net,010-99-0964,001-801-800-1506x0757,"18706 Jonathan Knoll, Hessport, WA 24971",4465.47,investment,2023-07-29,Toys,Net Banking,"East Danielmouth, Maryland",Fast shipping,3,1.5,4,LG

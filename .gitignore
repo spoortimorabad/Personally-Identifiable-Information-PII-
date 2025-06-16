@@ -1,0 +1,39 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore environment variables
+.env
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Jupyter and IPython files if any
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore model checkpoints and large files
+*.pt
+*.bin
+*.ckpt
+
+# Ignore logs or temp files
+*.log
+*.tmp
+
+# Ignore downloaded model folders (if using local model caching)
+huggingface/
+transformers_cache/
+cache/
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore Streamlit’s cache
+.streamlit/
+
